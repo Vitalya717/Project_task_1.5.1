@@ -1,9 +1,16 @@
-![Screenshot_21](https://github.com/user-attachments/assets/9ea14537-450c-49d7-aaba-6755c7b03b6a)![Screenshot_19](https://github.com/user-attachments/assets/669e8e26-5756-48e0-ad79-49def54495cb)
-![Screenshot_20](https://github.com/user-attachments/assets/d21aa66c-d285-40d6-84df-059e135edf5a)
-![FireShot Capture 005 - Allure Report - 26 188 118 125](https://github.com/user-attachments/assets/4efb5d62-7b81-435d-a128-39afd063ef95)
-![FireShot Capture 003 - Allure Report - 26 188 118 125](https://github.com/user-attachments/assets/7694efb4-e40e-44fe-84f8-960ce34b4362)
-![Screenshot_22](https://github.com/user-attachments/assets/6976a4c0-f7bd-4aa0-8c90-7081d067fdd5)
-![Screenshot_21](https://github.com/user-attachments/assets/bc4a9322-9abb-4824-9d55-211403e1f48d)
+![Screenshot_19](https://github.com/user-attachments/assets/20703cc9-b3d4-45b4-ad7f-49a7696d45e0)
+![Screenshot_20](https://github.com/user-attachments/assets/2f8e0857-a06a-49c3-97b9-663b8f37aa9c)
+![FireShot Capture 005 - Allure Report - 26 188 118 125](https://github.com/user-attachments/assets/67f5969f-9d61-41ed-8458-4aa8fc85c58b)
+![FireShot Capture 003 - Allure Report - 26 188 118 125](https://github.com/user-attachments/assets/43fc0642-4651-4aef-8837-ed782c824308)
+![Screenshot_21](https://github.com/user-attachments/assets/083b24b8-7767-4fa3-bf1d-a045a253efa8)
+![Screenshot_22](https://github.com/user-attachments/assets/caf8a15c-4d62-481a-9272-9964d5a09a6d)
+
+
+
+
+
+
+
 
 
 
